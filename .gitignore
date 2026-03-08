@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+vault.db
+vault_export.csv
+venv/
+.DS_Store
